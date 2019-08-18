@@ -3,3 +3,4 @@ def fun(a,b):
 
 
 print(fun(1,2))
+hello
