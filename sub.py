@@ -1,5 +1,6 @@
-sdlfkjslfdksdj
-sdflksjdflsd
-sdlfkjsdflksd
-bdshgjsabdyjb
-ndksadniuadhsnduhalk
+def add():
+    x=10
+    y=20
+    return x+y
+
+print(add())
